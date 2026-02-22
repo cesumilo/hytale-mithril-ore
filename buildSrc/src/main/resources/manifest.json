@@ -1,0 +1,18 @@
+{
+    "Group": "dev.cesumilo.plugin",
+    "Name": "MithrilOre",
+    "Version": "0.1.0",
+    "Description": "An example plugin for HyTale!",
+    "Authors": [
+        {
+            "Name": "Guillaume Robin"
+        }
+    ],
+    "Website": "cesumilo.dev",
+    "ServerVersion": "2026.02.19-1a311a592",
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "DisabledByDefault": false,
+    "Main": "dev.cesumilo.plugin.MithrilOre",
+    "IncludesAssetPack": true
+}
