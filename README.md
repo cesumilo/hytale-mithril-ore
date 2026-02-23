@@ -12,6 +12,7 @@
     *   **Copper/Iron**: Extremely low chance of conversion.
     *   **Adamantite/Cobalt**: Higher chance of conversion (richer veins yield richer rewards).
 *   **Performance Optimized**: Uses efficient block ID caching to minimize generation lag.
+*   **New item drops**: Storm Leather can drops on Outlander Brute and Skeleton Burnt Wizard.
 
 ---
 

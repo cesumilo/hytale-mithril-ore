@@ -1,8 +1,8 @@
 {
     "Group": "dev.cesumilo.plugin",
     "Name": "MithrilOre",
-    "Version": "0.1.0",
-    "Description": "An example plugin for HyTale!",
+    "Version": "0.2.0",
+    "Description": "A custom Hytale server plugin that introduces the legendary Mithril ore into your world generation",
     "Authors": [
         {
             "Name": "Guillaume Robin"
